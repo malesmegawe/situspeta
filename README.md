@@ -1,1 +1,2 @@
-# situspeta
+# mysitemap
+Javascript Sitemap
